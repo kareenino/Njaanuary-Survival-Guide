@@ -1,5 +1,5 @@
-# Njaanuary Survivor Guide
-A lightweight Python tool built for the **Pesapal Junior Dev Challenge** to track spending during the toughest month of the year.
+# Njaanuary Survival Guide
+A lightweight Python tool built to track spending during the toughest month of the year.
 
 ### Features
 * **Budget Guard:** Prevents logging expenses that exceed your income limit
